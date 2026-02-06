@@ -23,3 +23,8 @@ Make sure the following packages are installed:
 
 ```bash
 pip install plyer pywin32
+
+## Note
+-The program must remain running for reminders to work.
+-Closing VS Code or the terminal will stop the notifications.
+-You can minimize VS Code and let it run in the background.
